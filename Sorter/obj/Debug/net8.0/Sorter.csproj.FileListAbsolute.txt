@@ -1,0 +1,14 @@
+C:\Users\Daddy\source\repos\Sorter\Sorter\bin\Debug\net8.0\Sorter.exe
+C:\Users\Daddy\source\repos\Sorter\Sorter\bin\Debug\net8.0\Sorter.deps.json
+C:\Users\Daddy\source\repos\Sorter\Sorter\bin\Debug\net8.0\Sorter.runtimeconfig.json
+C:\Users\Daddy\source\repos\Sorter\Sorter\bin\Debug\net8.0\Sorter.dll
+C:\Users\Daddy\source\repos\Sorter\Sorter\bin\Debug\net8.0\Sorter.pdb
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.AssemblyInfoInputs.cache
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.AssemblyInfo.cs
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.dll
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\refint\Sorter.dll
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.pdb
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\Sorter.genruntimeconfig.cache
+C:\Users\Daddy\source\repos\Sorter\Sorter\obj\Debug\net8.0\ref\Sorter.dll
